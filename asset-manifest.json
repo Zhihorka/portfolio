@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/zhihorka-portfolio/static/css/main.6f80a718.chunk.css",
+    "main.js": "/zhihorka-portfolio/static/js/main.d0ae29ac.chunk.js",
+    "main.js.map": "/zhihorka-portfolio/static/js/main.d0ae29ac.chunk.js.map",
+    "runtime-main.js": "/zhihorka-portfolio/static/js/runtime-main.2461065e.js",
+    "runtime-main.js.map": "/zhihorka-portfolio/static/js/runtime-main.2461065e.js.map",
+    "static/js/2.20076534.chunk.js": "/zhihorka-portfolio/static/js/2.20076534.chunk.js",
+    "static/js/2.20076534.chunk.js.map": "/zhihorka-portfolio/static/js/2.20076534.chunk.js.map",
+    "index.html": "/zhihorka-portfolio/index.html",
+    "precache-manifest.2f2e8ad491db2ebffc51064222286c1c.js": "/zhihorka-portfolio/precache-manifest.2f2e8ad491db2ebffc51064222286c1c.js",
+    "service-worker.js": "/zhihorka-portfolio/service-worker.js",
+    "static/css/main.6f80a718.chunk.css.map": "/zhihorka-portfolio/static/css/main.6f80a718.chunk.css.map",
+    "static/js/2.20076534.chunk.js.LICENSE.txt": "/zhihorka-portfolio/static/js/2.20076534.chunk.js.LICENSE.txt",
+    "static/media/EduqSpeech.png": "/zhihorka-portfolio/static/media/EduqSpeech.a8b201c0.png",
+    "static/media/LeclairScreenshot.png": "/zhihorka-portfolio/static/media/LeclairScreenshot.ce5770e9.png",
+    "static/media/OtmetkyScreenshot.png": "/zhihorka-portfolio/static/media/OtmetkyScreenshot.8fc1b4e5.png",
+    "static/media/SearcherScreenshot.png": "/zhihorka-portfolio/static/media/SearcherScreenshot.064da18a.png",
+    "static/media/logo.svg": "/zhihorka-portfolio/static/media/logo.5d5d9eef.svg",
+    "static/media/resume.pdf": "/zhihorka-portfolio/static/media/resume.c3fbaf63.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2461065e.js",
+    "static/js/2.20076534.chunk.js",
+    "static/css/main.6f80a718.chunk.css",
+    "static/js/main.d0ae29ac.chunk.js"
+  ]
+}
